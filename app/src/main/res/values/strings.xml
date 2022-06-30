@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Polygon Calculator</string>
+    <string name="polygon">Polygon</string>
+    <string name="side_length">Side Length</string>
+    <string name="number_of_sides">Number Of Sides</string>
+    <string name="interior_angle">Interior Angle : %s degrees</string>
+    <string name="area">Area : %s square unit</string>
+    <string name="perimeter">Perimeter : %s length unit</string>
+</resources>
